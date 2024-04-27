@@ -6,9 +6,9 @@
 
 ------
 
-### 🔭 I’m currently working on en Navantia
+ 🔭 I’m currently working on en Navantia
 
-### 🌱 Expanding knowledge in React and TypeScript 
+ 🌱 Expanding knowledge in React and TypeScript 
 
 ------
 
