@@ -1,5 +1,3 @@
-![Romeo](https://github.com/RomeoDomiinguez/romeodominguez/blob/main/code.png)
-
 # Hi 👋, I 'm Romeo Dominguez
 
 ## Web Developer
